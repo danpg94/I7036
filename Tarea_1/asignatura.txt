@@ -1,0 +1,7 @@
+Contesta las siguientes preguntas:
+
+¿Qué son los sistemas tolerantes a fallos?
+¿Qué es un fallo?
+¿Qué es un error?
+¿Qué es la latencia de un fallo?
+¿Qué es la latencia de un error?
