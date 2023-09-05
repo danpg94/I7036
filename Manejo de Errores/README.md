@@ -1,0 +1,1 @@
+Este programa es un script que organiza los archivos obtenidos de un scapper de twitter en carpetas por usuarios. Se le añadio manejo simple de excepciones al script.

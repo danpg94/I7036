@@ -1,0 +1,1 @@
+Este es un ejemplo con restaurador de sesión. El programa es un simulador de un Perceptron para la materia de Seminario de Inteligencia Artificial II, cuando se cierra el programa se puede guardar los puntos establecidos en el programa en caso de errores.
